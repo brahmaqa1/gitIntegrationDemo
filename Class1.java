@@ -1,5 +1,3 @@
-package Package1;
-
 public class Class1 // def of class or declaring the class 
 {
 	
